@@ -1,0 +1,22 @@
+{
+  "name": "{{name}}",
+  "version": "{{version}}",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosbyxsy/template-cli.git"
+  },
+  "keywords": [
+    "temlate-cli"
+  ],
+  "author": "{{author}}",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosbyxsy/template-cli/issues"
+  },
+  "homepage": "https://github.com/mosbyxsy/template-cli#readme"
+}
